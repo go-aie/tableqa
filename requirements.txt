@@ -1,0 +1,7 @@
+camelot-py
+pypdf
+flask
+
+transformers
+modelscope
+torch
